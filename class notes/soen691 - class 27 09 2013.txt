@@ -1,0 +1,370 @@
+say about lawyers in canada
+
+
+intellectual property -
+
+software is intellectual property 
+
+4 types of IP 
+
+trade secret: needs to be hard to other people to figure it out. 
+e.g.: formula for trading secret like coca-cola formula. 
+
+copyright = limited period of time. 
+some of OSS uses copyleft GPL is most famous
+
+patent: once you patent is public , something you have amount of time, you are the only one can use it. 
+
+trademark: for a particular period of time, you renew constantly e.g: company name, LENOVO, DELL, APPLE. 
+
+Trade secret 
+
+any Int.proper. can be trade secret 
+less important for SW . 
+this things gives you competitive advantage. Ex: Microsoft disclosure form, if you say something from their process they will pursue you. 
+
+e.g. if you post the secret formula of coke , it will no longer be a tra.secr.
+
+
+Reverse Eng. Trade secrets 
+this is only lawful way to get trade secret. -> reverse engineering. 
+
+
+TRADEMARK
+
+name symbol device -> differenciates one seller from another one. 
+Apple Corp -> bettles musics , Apple pay millions of dollars to apple computer be able to use apple Itunes. 
+Apple Computer -> make computers. 
+
+ex: Coca-cola computer , you could not do it because Coca-cola trademark has full protection. 
+
+apple Iphone vs Cisco Iphone   - cisco started first so apple paied a huge amount of money to cisco. 
+
+
+CERTIFICATION MARKS
+
+Microsoft Certified Professional, Microsoft .NET Certitfication, Made for IPad. 
+
+
+TM RISKS
+
+
+you can be sued
+
+Generic Trademark
+
+"Google it" - I made a research using google ... not saying GOOGLE it. 
+
+"Xerox it"  -  xerocar um documento .... they almost lost their trademark 
+
+
+PATENTS
+
+I've invented and this is not obvious and novel. e.g.: 
+
+Almost all SW patents failed. 
+
+e.g: more useful to development of drugs - new insulin for new kind of diabetis. 
+
+
+FAT32 - patent. The reason microsoft patented this because they could suck a huge amount of money from companies using it. 
+
+
+Discloses the invention to the public - you get 20 years monopoly on it. 
+
+National jurisdiction. 
+
+USA issue most SW patents. 
+
+CANADIAN PATENTS. 
+
+Amazon "one click" 2013 patented in Canada. 
+
+LICENSE A PATENT 
+
+patent licensed person don't need to provide license to other companies to produce it, except if it is a pat. troll. 
+
+
+
+PATENT 
+
+has to be very specific. 
+
+
+Patent trolls (this is a vague patent) 
+
+Case of Android - If I own a PATENT , I wont allow other industries to use it. 
+
+if it is pat. trolls - you may need to license to other companies. (because you may not have the money to start producing it) 
+
+
+PATENT LITIGATION
+
+Patent effective from application date. The first to file the application is the first to get the patent rights. 
+
+
+FAT32 had never been patented by the people who first created it so Microsoft did it later. 
+it will sure a huge amount of money if other companies uses this system as their own brand. FAT is Microsoft. 
+
+if you were the engineer who produced an android application and LG is using it in its cell phones. The patented company will sue LG because it is the richest one. 
+
+
+PROTECTING YOURSELF 
+
+If you are small company and you can't check if some SW is protected under patent rights, we wish just good luck.
+
+big companies usually has LAWYERS to check the patents rights and cover themselves. 
+
+
+
+COPYRIGHT 
+
+Most interesting for OSS projects. 
+
+publishers : literary, dramatic, artistic, musical, audiovisual and eletronic works 
+
+e.g.: The song "happy birthday" you can't copyright this. But you can use the expression: "happy birthday"
+
+plagiarism is related to copyright. You need to paraphrase it in a way it is not only 3 or 5 words you changed. 
+
+LOGO will have copyright and TM protection. 
+
+computer program's are "literary works" - so it is copyrighted. 
+
+only the owner can sue other for copyright protection. 
+if you have an OSS where you have thousands of owners it almost impossible to sue an individual. 
+
+FAIR USE 
+USA: allows to commercial use, effect in market, proportion of original work
+In canada: allow copyright non owner to use the work depending if it is for research, personal study, etc
+
+DURATION OF COPYRIGHT 
+
+Canada: 50 years after author's death
+
+US: 95 years after  
+
+ODDITIES 
+
+when a copyright term expires it can be used freely worldwide. 
+
+
+OWNERSHIP 
+
+In Canada Cornw owns copyrighted material from gover. employees 
+
+US federal employees is public domain
+
+
+COLLECTIVE WORKS 
+
+you all collective own the copyright. 
+
+DERIVATIVE WORK 
+
+OSS if you change the software you own the part you changed. 
+
+CHAIN OF TITLE
+
+Windows 95 has a copyright , windows 98 has other one. 
+
+C.T. in ORGANIZATIONS 
+
+ex: IBM they own everything you develop inside the company. Even if you develop it in your freetime.
+
+SCO issues / NOVEL who owned the UNIX copyrights. was a huge sue. 
+
+
+CT in OSS 
+
+
+
+ASSIGNING OWNERSHIP 
+
+anything you produce you provide to the company. It must be in paper. 
+
+Why you don't you put your software in  contracts  ?  you're liable 
+
+
+CONTRACTS 
+
+if you promise to do something and this do not happen a company can sue you. 
+
+
+LICENSE 
+
+SW license: you can write anything on it. This is the check in agreement box before using a SW.  
+
+Bare license: it is interesting for the purpose GPL. Originated properly law. You are allowed to use my SW, but if you change it you need to give it back to the public. 
+
+
+
+COPYRIGHT LITIGATION 
+
+you need license to make copies of SW, rent SW to others, make available copy of it, create derivative work of it. 
+
+
+Conclusion 
+
+SW should be aware of these protections. 
+----------------------------------------------------------------------------------------------------------------------
+
+OSS and licenses
+
+OSS - super set of free SW. 
+
+OSS ?  has a license and aproved by OSinitiative OSI 
+
+have 10 points for it: 1.free redistribution 2. source code 3. derived (derivative) works 4. integrity of author's source code.  (the first four ones are the most important ones) 5. No discrimination against persons or groups 6. No discrimination against fields of endeavours (e.g. military SW you are not allowed to release it it conflicts with OSS) 7. redistrbution of license 8. license must not be specifc to a product 9. License must not restrict other software 10. license must be technology-neutral  
+
+FreeSW - license it is an opensource license. BUT OSS not necessarily is freeSW.
+
+BSD - don't sue us we don't guarantee anything. Theremust be a license to SW , but you don't guarantee this SW to do some specific TASKS... or you be sued. 
+
+
+FREE SW = Libre Software   0. fredom to run program 1. 
+
+
+FREE VS OSS 
+
+OSS is business-friendly 
+
+FS libre-sw is a bad connotation "free as free beer"
+
+OSS means the source code is publicly available. 
+
+POPULAR LICENSES 
+GPL is the most used. 
+
+
+TYPES of OSS Licenses
+
+academic or permissive: does not come to us if something does not work well. 
+
+reciprocal: if you put a code into a GPL software , you need to provide it publicly. 
+
+Links to SW are permissible, but if you change the core SW, eg. the library of Eclipse,  you have to give it back. 
+
+Reciprocal or copyleft 
+GPL does it. THE BEST PARAGRAPH OF THE GPL (see ppt)  - anything that you change in a GPL you must give it back to public.
+
+MIT license frees you from anything someone using your software do it wrong and kill people for instance. It is really simple, just put your name, date. 
+
+BSD vs MIT 
+
+you can advertise the project but not endorse the product with the original authors. 
+
+Apache License version 2.0.
+the more specific you are the less you need to go to court. 
+
+GPL - version 1 - 1989 - was tested briefly in court. It will legally invalid in near future but we dont know when. 
+version 2 - 1991
+version 3 - 2007
+
+GPL Bargain 
+
+you use the SW and give your work back to community. This is a reciprocal license. 
+
+
+GPL - derivative. If you do collaborative it will become DERIVATIVE work. So it becomes a viral kind of license. 
+It implies that linking is a derivative work! 
+
+Lesser GPL - gets around the issue of linking ... you can link that particular piece of SW , but this not mean it must be a GPL. 
+It is more business friendly. 
+
+
+GPL is a copyright license, You have sued to enforce it . You can be called to go to the court. 
+
+
+Compatibility of licenses 
+
+If you can't satisfy all the requirements of a license it is illegal. 
+
+GPL cannote impose restriction license to redistribute the sw. 
+
+
+GPL v2. is one of most common. 
+
+Choosing and OSS license
+
+limitations: the business model. 
+
+As licensor 
+
+fre-rider problem - some kind of GPL license, the core remains reciprocal... 
+
+Licensor make money? 
+
+MICROSOFT OSS 
+
+preffer academic or a reciprocal license. 
+
+AS LICENSOR key issues to decide
+
+patent licenses? 
+
+disclaimer of liability 
+
+As licensor: contributions 
+
+summary of licensor 
+
+
+Licensee 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

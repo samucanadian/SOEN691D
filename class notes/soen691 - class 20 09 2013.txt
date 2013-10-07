@@ -1,0 +1,31 @@
+answer 
+badges
+questions
+posts
+
+the main tables of Peters paper: Review something .....
+
+these are from stackoverflow  - qualitative research .. ex: what makes a good question : with higher scores. 
+
+
+Cataldo2006CSCW - short measure periods (the beginning of chrome project) (shared knowledge through commits) (see the complexity factor too)
+Torchiano2011Wetsom - truck factor 
+RigbyFSE2012 - Sharing knowledge through review process. Where are tables he used to calculate these "knowledge share" about reviews?
+
+
+
+
+exam: 80% on pure process SW development process , licenses etc.   and 20% research question  - linear model interpretation ... P value, R square value. 
+
+
+
+
+Research title: 
+
+research questions: 
+
+Data:   ex: bugs, commits, revisions, reviews ...etc
+
+paper that is background (1-4 main papers) and (about 14 paper bibliography)
+
+

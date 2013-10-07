@@ -1,0 +1,108 @@
+mining open source software repositories
+
+
+course goal: using machine learning. 
+
+
+Problem 				| Data			| Clean link	|	Model (statistics)
+Target buggy files for more testing	| -bug repo 		| Bug 56	|	- linear 
+					| - version history 	|    |		|	- tree J48
+					|  			|   Commit ##	|
+
+Bugfile~complexity
+
+write more complex files has 10x as many bugs as .... 
+
+
+presentation 1 
+slide 3
+effects on number of defects 
+
+continuous integration
+turnover
+refactoring
+social interactions among devs
+complexity of code 
+
+statistics:
+p-value   0.5  is valid
+files size ....
+magnitude of the difference
+normalized data (linear regression)
+
+
+grades 
+
+soft practice exam 40%   (mid november) 
+
+bug fix on an OSS project 20%
+
+in class discussions and simple summaries of papers 15%   -paper presentation 
+
+research paper including model of data  25% - 
+
+
+alternatives to grading scheme ....  
+
+experienced researcher ---can skip the bug fix project 
+or weight from exam can be added to paper. 
+
+excellent program 
+fix more bugs, less on research project
+
+must convince Peter of where you want to spend time and effort 
+
+
+you can do it alone or group of 2 ... 
+
+
+
+research project 
+
+choose a problem (and related literature)
+choose data and software product to study
+analyze data (weka or R)
+Write a four page, double column report
+
+Presentation 
+
+everyonde will pick and present their favorite paper (relate to research project)
+Me next week ... 
+
+
+Bug fix project 
+
+contact 
+
+Mozilla data - in a hard drive ... every single bug everything etc.... EXCELLENT TO KNOW . 
+
+
+
+Mozilla came from Netscape, they first provided freely their code.
+
+
+Latent structure ... go through a process where a dev do a commit and go through a new one ... 
+modularity - calculating the smallest path between the people .... the areas stuff I am doing 
+
+Cris Bird got this modularity 
+
+
+bikeshed impact  --- trivial conversation leads to high peer review with lots of not interesting discussion (deviates the main goal of the issue subject)
+
+
+opensource project?   source is freely available and is free for download 
+
+what differentiates the opensource are the free licenses
+GNU - general public license
+Mozilla Publi license 
+BSD license   
+
+it is viral because if ex: I use the Linux code and I create my code ... I could not just sell it .. because it is viral .. it has become free because Linux is free . 
+
+
+ways of making money  ---- ended here. 
+
+
+
+
+ 

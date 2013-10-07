@@ -1,0 +1,44 @@
+Introduction to OSS Business Models
+
+Make it proprietary
+
+easiest one to make money out of your project.  
+
+
+support services
+
+
+Freemium why is this more difficult model than OSS? 
+
+e.g. you can see the source code, and it is publicly available
+
+the unix version is free but the port you need to pay to run the windows...
+
+
+Peter used the wikipedia to build his presentation: 
+http://en.wikipedia.org/wiki/Business_models_for_open-source_software
+
+If you use Linux privately and use it source code? don't need to release it. 
+
+this is the SaaS - software as a service
+If you use in internal servers LINUX and you give services to external clients? you don't need to release it, because you are not selling it. 
+AGPL - is an exception for SaaS. If you do this above you violate AGPL.
+
+Android 
+Why does Google support the development of Android? 
+Brand awareness ... Ad revenue, get people to use your products
+
+infrastructure development - 
+
+eclipse - evolved from netbeans IBM 
+
+paid devs - you can get paid to work in these OSS projects. 
+
+proprietary modules - 
+
+eclipse ecosystem has many proprietary plugins 
+rational SW arc. for websphere  costs 3000 dollars - it allows if you have the core code . they can build it in the top of it. 
+
+
+EXAM - 
+
