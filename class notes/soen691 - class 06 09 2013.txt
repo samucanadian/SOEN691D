@@ -81,16 +81,72 @@ Mozilla data - in a hard drive ... every single bug everything etc.... EXCELLENT
 Mozilla came from Netscape, they first provided freely their code.
 
 
-Latent structure ... go through a process where a dev do a commit and go through a new one ... 
+Latent structure 
+Commercial software project managers design project organizational structure carefully, 
+Open Source Software (OSS) Projects, which have no pre-designed organizational structure.
+However, in large, complex, successful, OSS projects, we expect that sub-communities spontaneously arise within the bazaar as OSS systems and the teams evolve. We also find that these subgroups manifest most strongly in technical discussions, and are significantly connected with collaboration behaviour.
+
 modularity - calculating the smallest path between the people .... the areas stuff I am doing 
 
 Cris Bird got this modularity 
 
 
-bikeshed impact  --- trivial conversation leads to high peer review with lots of not interesting discussion (deviates the main goal of the issue subject)
+bikeshed impact  --- trivial conversation leads to high peer review with lots of not interesting discussion (deviates the main goal of the issue subject) - 
+from the table "Bike Shed Impact?" - the less is the outsiders participation in discussions groups the less is the time for review. 
 
+Three successful examples of OSS: Firefox revenue of 163 million in 2011 and Red Hat 1.13 millions in 2012 and Linux 2.4 billion dollars first quarter 2012
+
+Agile manifesto
+Individuals and interactions over processes
+and tools
+• Working software over comprehensive
+documentation
+• Customer collaboration over contract
+negotiation
+• Responding to change over following a plan
+
+Frequent integration 
+ Patches = can be a group of commits being pushed together 
+• Branches 
+• Tools  = features  .
+
+an advantage of OSS is that users can be co-developers of the project 
+so if an user found out a bug in the software he would have more knowledge to comprehend which would be the root cause.
 
 opensource project?   source is freely available and is free for download 
+
+OSS Processes
+• Keep the parts that work
+• Throw out any redundant or excessive
+formality
+
+
+Its License
+• Three types
+• GNU General Public License
+• Mozilla Public License
+• BSD License
+
+Do they threaten software development companies and
+paid developers?
+No because Source code is freely
+available and distributable
+
+Why OSS projects costs a loot even being freely available to public? 
+Because of the branding, the importance of the brand. 
+- Brand, people will know you
+• Good will - Investing money into a
+community project
+• Critical mass of users
+• It’s the competition and will exist anyways
+• Technical know how and infrastructure
+
+
+OSS Dev Motivation
+- Interested in the development problem 
+- Build CV
+- Money not important
+
 
 what differentiates the opensource are the free licenses
 GNU - general public license

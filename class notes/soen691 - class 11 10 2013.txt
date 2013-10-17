@@ -1,0 +1,45 @@
+THE MOST IMPORTANT THING TO KNOW ABOUT THE GIT IS THE GLOBALY UNIQUE IDENTIFIER. - it is statistically unique (chances are this is unique), does not necessarely mean it is unique in the world. 
+
+Requirements of VC 
+
+distributing the content and history with collaborators.  In the past they did not distributed the content
+
+Design Goals for GIT 
+
+if branching is easy - you may ending up with too much branches 
+
+
+Mixing Centralized and Decentralized 
+
+
+Git Architecture 
+
+git object has sha: hash  - it is the globally statistically unique - the unique identifier. 
+means if me and you have the UNIQUE IDENTIFIER they must be the same code. 
+
+every single thing tree , tag, blob commit has a hash .   
+
+This diagram is wrong because commit musg point to the Tree and Commits must point to itself. 
+
+
+
+Hashing and DAG 
+DVC: as git: 
+to merge two different versions we must ensure that they have a hash number in common (globally unique identifier). And it means that they shared a common ancestor. They must have this ancestor in order to perform the merge. 
+
+the CVC : as SVN you can do it mannually.
+
+
+Commit objects 
+
+lets say we have: 3 commits fine, all sudden we have date corruption in first commit.
+we hash everything in the commit: it contains the content of the file. You recalculate the hashes the diff between the most currently with some ancestor commit. All you need to know is the hash code of the last commit, and if it points to a different branch , the latest  commit must be the bug. 
+
+The flaw in GIT is that if you publish it , you cant touch it anymore. Otherwise it will lose track of the ancestors commits. 
+
+
+
+
+
+
+
