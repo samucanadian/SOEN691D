@@ -1,0 +1,90 @@
+Managing a release (chapter 7 of the book.)  - this is part of the Branching presentation
+
+he finished to present the branching presentation from managing a release part 
+
+
+
+New slide: Comparing Development Processes
+
+code and fix 
+
+code for a while and fix the bugs
+
+prototiping is code and fix
+
+
+cost of fixing errors - in the operation and maintenance is really cost . 
+in the requirements < Design < implementation < testing < operation and maintenance is really cost .
+
+waterfall is linear model, this is the sequential flow. The requirements must be freeze in order to start the project. 
+
+spiral model
+
+you do it by iteractions but it take a long time. 
+
+The difference of waterfall and spiral: waterfall has prototypes and spiral has risk analysis. 
+
+the short is your iterations the less stressful is to combine all the system. 
+
+
+Paving the cow paths? 
+
+tachnology take of have been done in the past and moving this things to the computer. 
+
+It applies to process, like the waterfall model and try to apply it to software process ... this is a really difficult process to implement. Because the requirements must be freeze. Clients cant change the requirements in the middle of the way. this is solid and can not be changed.
+
+"Embrace change" 
+
+keep good things that work and use it, the things does not work drop them
+
+release early, release often and listen to your customers. 
+
+
+
+Agile Manifesto 
+
+contract negotiation = freeze requirements , instead of it use the customer collaboration (constant changes)
+
+
+ideas behind agile: 
+even late changes in requirements are welcomed. (prioritize what is higher) have a plan 
+
+Agile is made for small teams. Because for instance in microsoft, this goes through layers of integration, agile does not apply. So depending how massive is your software system Agile may be applicable or not. 
+
+pair programming works for complex tasks. When things are simple this does not work properly.
+
+
+eclipse model of development 
+do warm-ups and the much milestones (plan, develop and stabilize) as possible then it end-game (freezes the system and releases a new version)
+
+RUP six best practices 
+develop iteratively etc 
+
+model visually = UML diagrams 
+verify quality = whole time you do testing 
+control changes = management requirements
+
+eclipse model 
+
+
+
+
+
+There is a way of to upload a file from postgres to R studio directly
+using \o "temp\dldldl.in" 
+then I use the select I want then I close it doing \o 
+
+then I use a command 
+
+correlation in R: 
+
+if my model would be num-authors ~ commits + time 
+
+attach(fi)    ** 
+cor.text(time, commits, method='spearman')  ***correlation and spearman is not linear???  correlation ranges -1 to 1 ...   0.92 it is highly correlated 
+
+m<- lm(num_auths ~ commits + time, data = fi)
+summary(m)    *** gives u the summary of the model 
+
+
+
