@@ -23,6 +23,9 @@ update file_info set authors = num_authors, first_change = first, last_change = 
         where c.commit = r.commit group by path
     ) as r where r.path = file_info.path;
 
+
+--21/05/2012 epoch = 1337558400
+
 \o '/tmp/file_info'
 select authors, commits, churn, extract(epoch from last_change - first_change)/86400 as time_days from file_info;
 \o
