@@ -1,0 +1,239 @@
+Exam review 
+
+the reference book can help to understand some of the terms 
+
+office hours  mon 2h30 to 17h. 
+
+tuesday 17h30 to 19h
+
+format 
+multiple choices
+
+filling the blanks 
+
+definitions and explain somethign
+
+License sections - boss wants to have a particular requirement and he want to make available a part of it to the community. Based on the licenses what would be the best choice and why? 
+
+
+introdduction (lecture)
+
+hundred contributors
+20 to 80 rule  (core group of devs) 
+
+chaos
+people own particular part of system  - latent structure 
+
+
+massive communication - parksons law of triviality 
+
+volunteers - most successful projects their of significant contributors are being paid now 
+
+No process - eclipse way is running by IBM - but if you see Apache it has a process - 
+
+Readings = if you understood the slides their will be no readings to do in this 
+
+
+Potential projects (lecture)
+
+Paper structure 
+Correlation -1 to 1   = the p value 
+
+complexity and size 
+
+parsimony
+
+Bikeshed = core and non-core devs
+
+code ownership and code quality 
+
+Intellectual property (lecture)
+understand the differences of each one of the 4 
+
+4 types of IP 
+
+
+be able to define each one in the context of the SW 
+
+Copyriight  1.2.3.4.5
+
+Patents
+
+Patent trolls (bad use) 
+
+protecting yourself 
+
+
+collective work and derivative work 
+
+SW collective = distribution , you put license on it and you release
+
+SW derivative = you modified a part of a GPL SW and you release it later 
+
+
+License (SW license and bare license)
+
+
+Open Source Software Licenses (lecture)
+
+OS definition just the first four 
+
+Types of OSS licenses (academic or permissive,  reciprocal (viral license ex: GPL) or Permissive, but changes to core are reciprocal (LGPL, MPL = Eclipse where plugins are permissive)
+
+Reciprocal or Copyleft
+
+Linking
+
+Compatibility of licenses 
+(not memorise what is compatible with what )  
+
+References 
+
+
+
+
+Introduction to OSS Business Models (lecture)
+
+Standard 
+Make it proprietary = using BSD license and release it will 
+Functional encapsulation = normal way of releasing SW 
+Support services and Training
+/ Dual-license
+proprietary components (ex: video game and hardware)
+freemum 
+Delayed Open Sourcing (like IBM released the lotus notes tool to libre office package to linux) 
+
+Tricky 
+Software as a service SaaS = as amazon you can modify it and run in whatever cloud you want and you dont need to release it back to community = the license is AGPL 
+Advertising-Supported Software (including all the google apps into Android system )
+
+Other factors
+Branding (mozilla)
+Donations (mozilla making money including google research into their browser)
+
+Infrastructure 
+paid devs (foundations that directs the projects)
+proprietary modules (eclipse)
+
+Big risk for MySql = you can take the code and the community can change their fork of the code and don't give it back to MySql project so it will be not update with the latest version being worked by those 
+
+
+Business models 
+
+be able to: Define/ motivation 
+Risks
+Example of Model 
+
+
+Hardware (example of proprietary component)
+
+
+
+
+Other lecture (Branching)
+
+Isolation 
+Good isolation and bad isolation
+"work of named stable bases" = disadvantage = merge hell 
+work of the head  = advantage merge often = working alwayswith most recent version 
+
+branching and process 
+
+Mixing and decentralized 
+this is less important than : 
+to avoid merge hell (merging all the time like "Building = eclipse slide) 
+
+Reading an unified diff 
+
+Types of releases 
+for GIT you don't need to worry about which module you must close access (you can work in forks) 
+
+Major, Minor and micro
+
+
+Hashing and DAG (unique identifier = allow you to identify if you have same change, same history with another repository)
+
+
+Comparing development processes (lecture)
+
+Able to contrast each of processes 
+Agile, Waterfall, code and fix, spiral etc. 
+
+Eclipse process 
+
+Building (when do you integrate your code together)
+
+Eclipse model 
+
+dayly = each component of your group
+weekly = with your team 
+....
+
+Catedral and bazar   = Linux SW process dev 
+cathedral = 
+bazar = chaotic way  
+UNDERSTAND this !!!! 
+
+customer/ users 
+
+Iterate 
+
+Quality assurance 
+
+Distribution 
+
+Is OSS Agile? 
+
+the main differences in OSS? 
+
+Osmotic communication 
+
+Mailing list traffice  (osmotic communication) 
+
+OSS techniques 
+
+Variance in SW products 
+
+
+
+Overview of research methodologies (lecture)
+Qualitative research (triangulation) 
+Quantitative research
+
+Scientific method 
+
+what make a Good hypothesis 
+
+Confounds 
+
+Experiment
+
+Case Study
+
+
+
+Exam: 40% of final mark (short answer, define business model and risk, compare process to other process, longer answer your boss wants something what would suggest) 2h exam 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
